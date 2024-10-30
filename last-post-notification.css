@@ -1,0 +1,64 @@
+		#lpn_main {
+			width:824px;
+			}
+			
+		#lpn_left_wrap {
+			float:left;
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			margin-right:15px;
+			border: 1px solid #ddd;
+			}
+			
+		#lpn_left_inside {
+			width:350px;
+			height:180px;
+			}
+			
+		#lpn_right_wrap {
+			float:left;
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			border: 1px solid #ddd;
+			}
+			
+		#lpn_right_inside {
+			width:415px;
+			height:180px;
+			}
+			
+		fieldset.options {
+			border: 1px solid;
+			margin-top: 1em;
+			padding: 1em;
+			width:795px;
+			}
+			fieldset.options div.tables-list {
+				float: left;
+				padding: 1em;
+				}
+
+			fieldset.options input {
+				}
+
+			fieldset.options legend {
+				font-size: larger;
+				font-weight: bold;
+				margin-bottom: .5em;
+				padding: 1em;
+				}
+		
+			fieldset.options .instructions {
+				font-size: smaller;
+				}
+
+			fieldset.options ul {
+				list-style-type: none;
+				}
+				fieldset.options li {
+					text-align: left;
+					}
+
+			fieldset.options .submit {
+				border-top: none;
+				}
